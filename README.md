@@ -1,6 +1,6 @@
 # Iris Flower Classification
 
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
+
 
 ![MasterHead](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)
 
@@ -82,7 +82,7 @@ In conclusion, the Iris flower classification project successfully employed Rand
 
 ## Author
 
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
+- [Arindam Paul](https://www.linkedin.com/in/shashank-pidugu-721584279/details/education/)
 
 ---
 
